@@ -6,5 +6,5 @@ int main(void){
   scanf("%d", &kokonaisluku);
   printf("Anna liukuluku: ");
   scanf("%2f", &liukuluku);
-  printf("Annoit luvut &kokonaisluku ja %liukuluku",".", kokonaisluku,liukuluku);
+  printf("Annoit luvut &kokonaisluku ja &liukuluku",".", kokonaisluku,liukuluku);
 }
